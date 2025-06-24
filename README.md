@@ -1,1 +1,1 @@
-# odin-recipes
+This is a practice website from the Odin Project. It is going to display simple recipes. It is going to use only HTML for now.
